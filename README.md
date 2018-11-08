@@ -1,2 +1,2 @@
 # learningAlgos
-Algorithms and Data Structures implemented in C++
+Algorithms and Data Structures Implemented in C++
